@@ -1,36 +1,52 @@
 <!-- Profile Banner -->
-<img src="https://i.imgur.com/Z7S1R2b.gif" width="100%" height="250px" alt="Banner" />
+<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100%" height="250px" alt="Banner" />
 
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=1F75C2&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Md+Nahid+Hossain;Frontend+Developer;MERN+Stack+Enthusiast;ASP.NET+Learner;Always+Learning+New+Things" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F79C&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Md+Nahid+Hossain;Frontend+Developer+from+Bangladesh;MERN+Stack+Enthusiast;ASP.NET+Learner;Always+Learning+New+Things" alt="Typing Animation" />
 </h1>
 
-<h3 align="center">A passionate frontend developer from Bangladesh 🇧🇩</h3>
+<h3 align="center">🚀 Turning Ideas into Interactive Web Experiences</h3>
 
 ---
 
-### 🚀 About Me
-- 🔭 **Currently working on:** ASP.NET Projects  
-- 🌱 **Learning:** ASP.NET Core & Advanced C#  
-- 💬 **Ask me about:** MERN Stack, Flutter, Laravel, ASP.NET, SQL  
-- 👨‍💻 **Portfolio:** [GitHub Projects](https://github.com/nahidhossain143?tab=repositories)  
-- 📫 **Email:** [nahidmax26@gmail.com](mailto:nahidmax26@gmail.com)  
-
----
-
-### 🌐 Connect With Me
 <p align="center">
-<a href="https://linkedin.com/in/nahid-hossain143"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://fb.com/nahid.h143"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://instagram.com/nahid.h143"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=nahidhossain143&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/nahidhossain143?label=Followers&style=for-the-badge" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/nahidhossain143?label=Stars&style=for-the-badge" alt="Stars" />
+  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge" alt="Markdown" />
 </p>
 
 ---
 
-### 🛠 Tech Stack
+### 🌟 About Me
+- 🔭 Working on **ASP.NET Projects**  
+- 🌱 Learning **ASP.NET Core & Advanced C#**  
+- 💬 Ask me about **MERN Stack, Flutter, Laravel, SQL**  
+- 📂 My Work: [GitHub Repositories](https://github.com/nahidhossain143?tab=repositories)  
+- 📧 Email: **[nahidmax26@gmail.com](mailto:nahidmax26@gmail.com)**  
+
+---
+
+### 🌍 Connect with Me
+<p align="center">
+<a href="https://linkedin.com/in/nahid-hossain143"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://fb.com/nahid.h143"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://instagram.com/nahid.h143"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+### ⚒ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,html,css,bootstrap,tailwind,js,react,nodejs,express,mongodb,mysql,laravel,dotnet,flutter,firebase,figma" />
+</p>
+
+---
+
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nahidhossain143&theme=radical&row=1&column=6" />
 </p>
 
 ---
@@ -50,13 +66,6 @@
 
 ---
 
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nahidhossain143&theme=radical&row=1&column=6" />
-</p>
-
----
-
 ### 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nahidhossain143&theme=react-dark&hide_border=true" />
@@ -64,10 +73,22 @@
 
 ---
 
-### 💡 Fun Fact
-> "I believe great software is built with passion, precision, and continuous learning."
+### 🐍 Contribution Snake
+> Make sure you’ve set up the GitHub Actions workflow so this works (see instructions I gave you earlier).
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nahidhossain143/nahidhossain143/main/dist/snake.svg" />
+</p>
 
-<!-- Footer Animation -->
+---
+
+### 💡 Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+<!-- Footer Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
 </p>

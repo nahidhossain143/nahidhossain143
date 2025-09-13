@@ -3,10 +3,10 @@
 
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F79C&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Md+Nahid+Hossain;Frontend+Developer+from+Bangladesh;MERN+Stack+Enthusiast;ASP.NET+Learner;Always+Learning+New+Things" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F79C&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Md+Nahid+Hossain;Full-Stack+Web+Developer;MERN+Stack+%7C+ASP.NET+%7C+Flutter;Blockchain+%26+Ethereum+Enthusiast;Always+Learning+New+Things" alt="Typing Animation" />
 </h1>
 
-<h3 align="center">🚀 Turning Ideas into Interactive Web Experiences</h3>
+<h3 align="center">🚀 Crafting Scalable Web & Blockchain Solutions</h3>
 
 ---
 
@@ -20,11 +20,11 @@
 ---
 
 ### 🌟 About Me
-- 🔭 Working on **ASP.NET Projects**  
-- 🌱 Learning **ASP.NET Core & Advanced C#**  
-- 💬 Ask me about **MERN Stack, Flutter, Laravel, SQL**  
-- 📂 My Work: [GitHub Repositories](https://github.com/nahidhossain143?tab=repositories)  
-- 📧 Email: **[nahidmax26@gmail.com](mailto:nahidmax26@gmail.com)**  
+- 🔭 Currently working on **ASP.NET Core Projects** & **Ethereum DApps**  
+- 🌱 Exploring **Blockchain Development (Solidity, Smart Contracts, Web3.js, Hardhat)**  
+- 💬 Ask me about **MERN Stack, ASP.NET, Flutter, SQL, Blockchain**  
+- 📂 Check my work: [GitHub Repositories](https://github.com/nahidhossain143?tab=repositories)  
+- 📧 Reach me at: **[nahidmax26@gmail.com](mailto:nahidmax26@gmail.com)**  
 
 ---
 
@@ -39,7 +39,7 @@
 
 ### ⚒ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,html,css,bootstrap,tailwind,js,react,nodejs,express,mongodb,mysql,laravel,dotnet,flutter,firebase,figma" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,html,css,bootstrap,tailwind,js,react,nodejs,express,mongodb,mysql,laravel,dotnet,flutter,firebase,figma,solidity,ethereum" />
 </p>
 
 ---
@@ -74,7 +74,6 @@
 ---
 
 ### 🐍 Contribution Snake
-> Make sure you’ve set up the GitHub Actions workflow so this works (see instructions I gave you earlier).
 <p align="center">
   <img src="https://raw.githubusercontent.com/nahidhossain143/nahidhossain143/main/dist/snake.svg" />
 </p>

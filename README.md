@@ -1,9 +1,9 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=140&section=header&text=Md%20Nahid%20Hossain&fontSize=38&fontColor=e6edf3&fontAlignY=55&desc=Blockchain%20%26%20ML%20Researcher%20%7C%20Full-Stack%20Engineer&descAlignY=80&descColor=7d8590" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=140&section=header&text=Md%20Nahid%20Hossain&fontSize=38&fontColor=e6edf3&fontAlignY=55&desc=Blockchain%20%7C%20ML%20Research%20%7C%20Full-Stack%20Engineering&descAlignY=80&descColor=7d8590" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=7+research+papers+under+review;Blockchain+Provenance+%7C+Post-Quantum+Crypto+%7C+RAG;MERN+%7C+Next.js+%7C+ASP.NET+Core+%7C+Solidity;Final-year+CSE+%40+AUST+%E2%80%94+graduating+soon;Open+to+Research%2C+Full-Stack+%26+Web3+roles" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=7+research+papers+under+review;Blockchain+Provenance+%7C+Post-Quantum+Crypto+%7C+RAG;MERN+%7C+Next.js+%7C+ASP.NET+Core+%7C+Solidity;Final-year+CSE+%40+AUST+%E2%80%94+graduating+soon;Open+to+Research%2C+Full-Stack+and+Web3+roles" />
 
 <br/>
 
@@ -172,17 +172,6 @@ mismatch pauses playback, raises a red overlay, and auto-fires an on-chain `repo
 ![FAISS](https://img.shields.io/badge/FAISS-0d1117?style=flat-square&logo=meta&logoColor=58a6ff)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=58a6ff)
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=d29922)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nahidhossain143&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=1f6feb" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidhossain143&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="160"/>
-
-</div>
 
 ---
 
